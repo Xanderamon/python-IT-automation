@@ -43,4 +43,4 @@ v0.0.0a - 2020_08_11
 
 [^1]: This is the final test assignement for Coursera's [Google IT Automation with Python](https://www.coursera.org/learn/automating-real-world-tasks-python/home/welcome)
 
-[^2]: This part of the assignement will (probably) be written in a dedicated repo
+[^2]: This part of the project is an extra step/challenge outside of the test requirements

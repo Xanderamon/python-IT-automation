@@ -1,5 +1,5 @@
 # Fruit-Catalog Site-Updater ([^0])
-> version 0.0.0
+> version 0.0.0a
 Development status
 : Project Statement
 
@@ -25,14 +25,18 @@ Finally, in parallel to the automation running, we want to check the health of t
 - [ ] **Generate** a PDF update report
 - [ ] **Send** the report as email attachment to the supplier
 
-### Extra ([^2])
 - [ ] Create a script which regularly **checks system health**
 - [ ] Make the script **send email alerts** when needed
+
+### Extra ([^2])
+- [ ] Wrap all the workflow with an 'autorun' façade and a settings json file
 
 ---
 ### Version log:
 v0.0.0 - 2020_08_10
 : Produced the first version of this README file
+v0.0.0a - 2020_08_11
+: Produced the first version of the autorun.py, intended as 'façade" design pattern; updated the README with additional objectives.
 
 ---
 [^0]: *I really should find the time to come up with better names*

@@ -35,6 +35,7 @@ Finally, in parallel to the automation running, we want to check the health of t
 ### Version log:
 v0.0.0 - 2020_08_10
 : Produced the first version of this README file
+
 v0.0.0a - 2020_08_11
 : Produced the first version of the autorun.py, intended as 'façade" design pattern; updated the README with additional objectives.
 
